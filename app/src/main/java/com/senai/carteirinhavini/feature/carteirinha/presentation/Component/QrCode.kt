@@ -62,5 +62,5 @@ fun gerarQrCode(
 @Preview(showBackground = true)
 @Composable
 fun QrCodePreviewClaro() {
-    QrCode("seunumerodematriculaaqui")
+    QrCode("90000000001755912710")
 }
